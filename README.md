@@ -8,4 +8,7 @@ Os exercícios foram **ministrados durante as aulas do Prof Nelio Alves**. (Voc�
 ---
 
 ## 📚 Objetivo
-- Relembrar estruturas básicas de algoritmos e lógica de programação. 
+- Relembrar estruturas básicas de algoritmos e lógica de programação.
+
+## 📚 Organização do Repositório
+Estruturas sequenciais desafios do 1 ao 10. 
